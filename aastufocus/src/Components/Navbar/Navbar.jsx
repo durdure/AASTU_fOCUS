@@ -1,6 +1,10 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 import './navbar.css'
 import Logo from './../assets/GUGEE focus 2.png'
+import Hero from '../Hero/Hero';
+
+
 
 const Navbar = () => {
 
